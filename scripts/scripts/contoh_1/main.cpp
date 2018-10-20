@@ -13,6 +13,8 @@ int main()
 	cout<<"x-y="<<x-y<<"\n";
 	cout<<"x*y="<<x*y<<"\n";
 	cout<<"x/y="<<x/y<<"\n";
+	cout<<"end\n";
+
 	
 //	cout<<"hello world!!!\n";
 //	printf("hello world\n");
