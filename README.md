@@ -8,3 +8,5 @@ req:
 
 Tugas untuk minggu depan:
 cari materi mengenai Pseudocode dan Flowchart.
+
+### Untuk Tanggal 27 Oktober 2018 tidak perlu membawa laptop.
