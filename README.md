@@ -11,6 +11,6 @@ req:
 1. Buatlah pseudocode dan flowchart untuk kedua algoritma tersebut.
 2. Buat masing-masing minimal 2 testcase untuk masing-masing soal.
 3. Soal dikerjakan di kertas folio, ditulis, tidak di-print!
-4. soal dikumpulkan pada saat uts.
+4. Tugas dikumpulkan pada saat uts.
 5. Tidak ada yang mengerjakan tugas tersebut pada hari-H dimana tugas akan dikumpulkan.
 
