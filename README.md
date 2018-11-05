@@ -6,11 +6,27 @@ req:
 1. Bahasa pemrograman C++ (codelite, dll).
 2. Github.
 
-## Tugas UTS:
-### di dalam folder Tugas UTS terdapat file TugasUTS.pptx, didalam file tersebut terdapat 2 soal, kerjakan soal tersebut dengan ketentuan sbb:
-1. Buatlah pseudocode dan flowchart untuk kedua algoritma tersebut.
-2. Buat masing-masing minimal 2 testcase untuk masing-masing soal.
-3. Soal dikerjakan di kertas folio, ditulis, tidak di-print!
-4. Tugas dikumpulkan pada saat uts.
-5. Tidak ada yang mengerjakan tugas tersebut pada hari-H dimana tugas akan dikumpulkan.
+## Tugas Elearning(ruang 1001,1002, 1003):
+### Ruang 1001: 
+Untuk yang Nim-nya berakhiran angka 0 & 5, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41930
+Untuk yang Nim-nya berakhiran angka 1 & 6, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41935
+Untuk yang Nim-nya berakhiran angka 2 & 7, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41938
+Untuk yang Nim-nya berakhiran angka 3 & 8, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41943
+Untuk yang Nim-nya berakhiran angka 4 & 9, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41948
+
+### Ruang 1002: 
+Untuk yang Nim-nya berakhiran angka 0 & 5, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41933
+Untuk yang Nim-nya berakhiran angka 1 & 6, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41936
+Untuk yang Nim-nya berakhiran angka 2 & 7, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41939
+Untuk yang Nim-nya berakhiran angka 3 & 8, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41945
+Untuk yang Nim-nya berakhiran angka 4 & 9, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41951
+
+### Ruang 1003: 
+Untuk yang Nim-nya berakhiran angka 0 & 5, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41934
+Untuk yang Nim-nya berakhiran angka 1 & 6, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41937
+Untuk yang Nim-nya berakhiran angka 2 & 7, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41942
+Untuk yang Nim-nya berakhiran angka 3 & 8, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41946
+Untuk yang Nim-nya berakhiran angka 4 & 9, masuk ke link: https://e-learning.unpam.ac.id/mod/forum/discuss.php?d=41952
+
+### Kerjakan pada link diatas saja, dibaca soal dan ketententuannya, selain link  diatas apabila muncul forum diskusi yang lain di elearningnya diabaikan saja.
 
