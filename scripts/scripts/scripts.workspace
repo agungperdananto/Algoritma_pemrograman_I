@@ -2,16 +2,19 @@
 <CodeLite_Workspace Name="scripts" Database="" Version="10.0.0">
   <Project Name="contoh_1" Path="contoh_1/contoh_1.project" Active="No"/>
   <Project Name="contoh_2" Path="contoh_2/contoh_2.project" Active="Yes"/>
+  <Project Name="contoh_3" Path="contoh_3/contoh_3.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="contoh_1" ConfigName="Debug"/>
       <Project Name="contoh_2" ConfigName="Debug"/>
+      <Project Name="contoh_3" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="contoh_1" ConfigName="Release"/>
       <Project Name="contoh_2" ConfigName="Release"/>
+      <Project Name="contoh_3" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

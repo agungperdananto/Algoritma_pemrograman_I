@@ -7,29 +7,31 @@ int main()
 {
 //	deklarasi / inisialisasi==> initialize(init)
 	int penghasilan, tanggungan;
-	float pajak;
-	float salary = 0;
 	
+	float pajak, salary;
 	
-	cout<<"penghasilan:";
+// 	input data
+	cout<<"Penghasilan: ";
 	cin>>penghasilan;
-	cout<<"tanggungan:";
+	cout<<"Tanggungan: ";
 	cin>>tanggungan;
-	
-	if(penghasilan>3500){
+
+//	proses
+	if (penghasilan > 3500){
 		if(tanggungan>0 && tanggungan<4){
 			pajak = 0.025*(penghasilan-(tanggungan*500));
-		}else if(tanggungan>=4){
+		} else if(tanggungan>=4){
 			pajak = 0.025*(penghasilan-(3*500));
 		} else{
-			pajak = 0.025* penghasilan;
+			pajak = 0.025*penghasilan;
 		}
-	} else{
+		
+	} else {
 		pajak = 0;
 	}
 	salary = penghasilan - pajak;
-	cout<<"pajak: "<<pajak<<"\n";
-	cout<<"Salary: "<<salary<<"\n";
-	
-	
+//	output
+//	cout<<"pajak: "<<pajak<<"\n";
+	cout<<"salary: "<<salary<<"\n";
 }
+
